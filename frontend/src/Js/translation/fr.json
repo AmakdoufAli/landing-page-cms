@@ -1,0 +1,85 @@
+{
+    "commandeInfo": {
+        "Votre commande": "Votre commande",
+        "Sous total": "Sous total",
+        "Total": "Total"
+    },
+    "clientInfos": {
+        "Informations Client": "Informations Client",
+        "Entrée votre Adresse e-mail": "Entrée votre Adresse e-mail",
+        "Mot de passe du compte": "Mot de passe du compte",
+        "Créer le mot de passe du compte": "Créer le mot de passe du compte"
+    },
+    "facturationInfos":{
+        "Détails De Facturation": "Détails De Facturation",
+        "Prénom": "Prénom",
+        "Nom": "Nom",
+        "Adresse": "Adresse",
+        "Ville": "Ville",
+        "Pays": "Pays",
+        "Téléphone": "Téléphone"
+    },
+    "Envoyer": "Envoyer",
+    "Paiement":"Paiement",
+    "Passer la commande": "Passer la commande",
+    "Acheter La Formation" : "Acheter La Formation",
+    "navBar": {
+        "Accueil": "ACCEUIL",
+        "À Propos": "À PROPOS",
+        "Cours": "COURS",
+        "Contactez-Nous": "CONTACTEZ-NOUS"
+    },
+    "footer": {
+        "localisation": "AVENUE ALLAL EL FASSI COMPLEX EL HABSSI RESIDENTIEL ET PROFISIONNEL IMM A BUREAU N°07 MARRAKECH",
+        "Pages principales": "PAGES PRINCIPALES",
+        "Service client": "SERVICE CLIENT",
+        "description": "CONTACTEZ LE SERVICE CLIENT POUR TOUTE QUESTION SUR VOS PRODUITS, VOTRE COACHING OU VOS ÉVÉNEMENTS.",
+        "Pages juridiques": "PAGES JURIDIQUES",
+        "Politique de confidentialité": "POLITIQUE DE CONFIDENTIALITÉ",
+        "Conditions générales de ventes": "CONDITIONS GÉNÉRALES DE VENTES",
+        "copyright": "© Académie d'étiquette et de protocole 2022. Tous droits réservés."
+    },
+    "errors": {
+        "emailIsRequired": "Email est requis",
+        "emailIsNotValid": "Email n'est pas valide",
+        "passwordIsRequired": "Mot de passe du compte est requis",
+        "passwordIsInvalid": "Mot de passe est invalide",
+        "prenomIsRequired": "Prénom est requis",
+        "villeIsRequired": "Ville est requis",
+        "telephoneIsRequired": "Téléphone est requis",
+        "telephoneIsInvalid": "Le téléphone doit être un numéro marocain valide"
+    },
+    "pages":{
+        "Acceuil": "Acceuil",
+        "apropos":{
+            "À Propos de nous": "À Propos de nous",
+            "text": {
+              "line1": "Nous sommes la société invest display, une plateforme en ligne dédiée à fournir des cours de qualité supérieure sur l'intelligence artificielle et les technologies connexes.",
+              "line2": "Notre mission est de démocratiser l'accès à l'éducation en IA en offrant des cours accessibles à tous, des débutants aux experts, afin de permettre à chacun d'acquérir des compétences précieuses dans ce domaine en pleine expansion.",
+              "line3": "Nos cours sont développés par des experts de l'industrie et des universitaires réputés, garantissant un contenu actualisé, pertinent et de haute qualité. Nous croyons en l'apprentissage pratique et concret, c'est pourquoi nos cours sont conçus pour être interactifs et engageants, offrant aux étudiants une expérience d'apprentissage enrichissante.",
+              "line4": "Que vous soyez un professionnel cherchant à approfondir vos connaissances en IA, un étudiant souhaitant se préparer à une carrière dans ce domaine passionnant, ou simplement quelqu'un curieux d'en savoir plus sur l'IA, la société Invest display est là pour vous accompagner dans votre parcours d'apprentissage.",
+              "line5": ""
+            }
+        },
+        "cours":{
+            "Cours détailles": "Cours détailles",
+            "Cours": "Cours"
+        },
+        "contact":{
+          "contacter nous": "Contacter Nous",
+          "Avez-Vous Des Questions ?": "Avez-Vous Des Questions ?",
+          "Trouvez des réponses à toutes vos questions.": "Trouvez des réponses à toutes vos questions.",
+          "form":{
+            "Prénom": "Prénom",
+            "Votre Email": "Votre Email",
+            "Votre Téléphone": "Votre Téléphone",
+            "Votre Message": "Votre message",
+            "Envoyer": "Envoyer"
+          }
+        },
+        "succes":{
+            "titre": "Le paiement a été effectué avec succès.",
+            "message": "Consultez votre boîte de réception Gmail pour accéder au lien de votre formation WordPress."
+        }
+    }
+}

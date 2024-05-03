@@ -1,0 +1,16 @@
+.f-section, .f-section2{
+    background-image: url("../../assets/images/bg-s1.jpeg");
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* .f-section2{
+    background-image: url("../../../public//images/bg-s1.jpeg");
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+

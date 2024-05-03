@@ -1,0 +1,13 @@
+.app{
+    background-image: url('images/bg5.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: border-box;
+}
+
+.gradCont{
+    background: rgba(0, 0, 0, 0.7);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    color: white;
+}

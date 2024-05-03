@@ -1,0 +1,85 @@
+{
+    "commandeInfo": {
+        "Votre commande": "Your order",
+        "Sous total": "Subtotal",
+        "Total": "Total"
+    },
+    "clientInfos": {
+        "Informations Client": "Customer Information",
+        "Entrée votre Adresse e-mail": "Enter your email address",
+        "Mot de passe du compte": "Account password",
+        "Créer le mot de passe du compte": "Create account password"
+    },
+    "facturationInfos": {
+        "Détails De Facturation": "Billing Details",
+        "Prénom": "First Name",
+        "Nom": "Last Name",
+        "Adresse": "Address",
+        "Ville": "City",
+        "Pays": "Country",
+        "Téléphone": "Phone"
+    },
+    "Envoyer": "Send",
+    "Paiement": "Payment",
+    "Passer la commande": "Place Order",
+    "Acheter La Formation" : "By The Course",
+    "navBar": {
+        "Accueil": "HOME",
+        "À Propos": "ABOUT",
+        "Cours": "COURSES",
+        "Contactez-Nous": "CONTACT US"
+    },
+    "footer": {
+        "localisation": "AVENUE ALLAL EL FASSI COMPLEX EL HABSSI RESIDENTIAL AND PROFESSIONAL BUILDING OFFICE N°07 MARRAKECH",
+        "Pages principales": "MAIN PAGES",
+        "Service client": "CUSTOMER SERVICE",
+        "description": "CONTACT CUSTOMER SERVICE FOR ANY QUESTIONS ABOUT YOUR PRODUCTS, COACHING, OR EVENTS.",
+        "Pages juridiques": "LEGAL PAGES",
+        "Politique de confidentialité": "PRIVACY POLICY",
+        "Conditions générales de ventes": "TERMS AND CONDITIONS OF SALES",
+        "copyright": "© 2022 Etiquette & Protocole Academy. All rights reserved."
+    },
+    "errors": {
+        "emailIsRequired": "Email is required",
+        "emailIsNotValid": "Email is not valid",
+        "passwordIsRequired": "Password is required",
+        "passwordIsInvalid": "Password is invalid",
+        "prenomIsRequired": "First name is required",
+        "villeIsRequired": "City is required",
+        "telephoneIsRequired": "Phone is required",
+        "telephoneIsInvalid": "Phone must be a valid Moroccan number"
+    },
+    "pages": {
+        "Acceuil": "Home",
+        "apropos": {
+            "À Propos de nous": "About Us",
+            "text": {
+              "line1": "We are Invest Display, an online platform dedicated to providing high-quality courses on artificial intelligence and related technologies.",
+              "line2": "Our mission is to democratize access to AI education by offering courses accessible to everyone, from beginners to experts, enabling everyone to acquire valuable skills in this rapidly expanding field.",
+              "line3": "Our courses are developed by industry experts and renowned academics, ensuring up-to-date, relevant, and high-quality content. We believe in hands-on, practical learning, which is why our courses are designed to be interactive and engaging, providing students with a rewarding learning experience.",
+              "line4": "Whether you're a professional looking to deepen your AI knowledge, a student preparing for a career in this exciting field, or simply someone curious to learn more about AI, Invest Display is here to support you on your learning journey.",
+              "line5": "Join us today and explore the fascinating world of artificial intelligence with Invest Display!"
+            }
+        },
+        "cours": {
+          "Cours détailles": "Detailed Courses",
+          "Cours": "Courses"
+        },
+        "contact": {
+          "contacter nous": "Contact Us",
+          "Avez-Vous Des Questions ?": "Do You Have Any Questions?",
+          "Trouvez des réponses à toutes vos questions.": "Find answers to all your questions.",
+          "form": {
+            "Prénom": "First Name",
+            "Votre Email": "Your Email",
+            "Votre Téléphone": "Your Phone",
+            "Votre Message": "Your Message",
+            "Envoyer": "Send"
+          }
+        },
+        "succes":{
+            "titre": "Payment Successfully Processed.",
+            "message": "Please refer to your Gmail inbox to access the link for your WordPress training."
+        }
+    }
+}
