@@ -45,6 +45,14 @@ This project is a comprehensive Content Management System (CMS) developed using 
 5. **Explore the Dashboard**: 
    - Access the dashboard to manage landing pages, view statistics, and handle client interactions.
 
+## Email Notifications
+
+This project utilizes Laravel's built-in Mail service for sending email notifications. Notifications such as contact form submissions or other important updates can be configured to be sent to specified email addresses directly from the dashboard.
+
+To configure email notifications:
+- Set up your SMTP mail driver in the `.env` file.
+- Customize the email templates located in the `resources/views/emails` directory.
+
 ## Additional Information
 
 If you're interested in contributing to or learning more about the project, feel free to explore the codebase. Contributions and feedback are welcome!
