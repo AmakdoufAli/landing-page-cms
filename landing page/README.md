@@ -1,4 +1,4 @@
-# **Project Title**
+# **Dynamic Landing Page**
 
 ## Overview
 
